@@ -1,7 +1,7 @@
 # Supernova quantities modelization
 
 Project Status: Completed (Academic Project)
-Development Period: Nov 2021 – Dec 2021
+Development Period: Nov 2021 – Jan 2022
 Language: C
 
 ## Description
